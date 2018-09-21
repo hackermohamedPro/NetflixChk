@@ -54,4 +54,4 @@ Y lo pegan y empesara el testeo nada mas y esperar a q les bote una premium.[Aut
 Son cuentas reales obtenidas con Sentry MBA y Paste Bin [Termux pero no todas] en si 
 Estos tipo de cuentas son Reales 100% reales por lo cual las paga una persona y si cambias la contraseña pequeño hijo de puta el dueño va cancelar la cuenta y todos valen verga >:V no seas pendejo y no le cambies la contraseña.
 
->Este script es un checker a medias porque solo procesa el email mas no la contraseña, asi que debes tener suerte y un buen combo para que salgan cuentas sin un falso positivo (osea que parezca que esta activa pero en realidad cambiaron contraseña).
+>Este script se centra en la velocidad sin proxys y al anti ban de ip utilizando un algoritmo que solo checkea emails, esto puede causar confusión al arrojar "falsos positivos", si tienes un buen combo no te preocupes, pero si arroja una cuenta y no sirve ese es un falso positivo ( osea que no estes de pvto diciendo que no sirve el checker >:v)
