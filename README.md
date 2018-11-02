@@ -1,4 +1,4 @@
-# NetflixChk
+# NetflixChk (Descontinuado)
 
 ## Introducción
 
